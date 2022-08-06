@@ -1,6 +1,6 @@
 Welcome to my GitHub!!
 #### Coding / Cars / Sports
-![Developer](https://github.com/Ramachetan/Ramachetan/blob/main/Github%20Banner.png)
+![Developer](https://github.com/Ramachetan/Ramachetan/blob/main/Rama%20Chetan%20Atmudi.gif)
 
 Current Graduate Student at NJIT.
 
