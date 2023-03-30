@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ramachetan22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jy4LtCq8xVbjjWfNmlyTrfN_HboBwp1o/view?usp=sharing](https://drive.google.com/file/d/1jy4LtCq8xVbjjWfNmlyTrfN_HboBwp1o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jy4LtCq8xVbjjWfNmlyTrfN_HboBwp1o/view?usp=sharing)
 
 - ⚡ Fact **I've been more committed to watching F1 than a cat to napping – haven't missed a single race in the past 3 years!**
 
