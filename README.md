@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramachetan&label=Profile%20views&color=0e75b6&style=flat" alt="ramachetan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramachetan" alt="ramachetan" /></a> </p>
 
 - 🔭 I’m currently working on **Leveraging Natural Language Processing for Automated Document Generation in Enterprise Systems**
 
@@ -28,5 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramachetan&show_icons=true&locale=en&layout=compact" alt="ramachetan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramachetan&show_icons=true&locale=en" alt="ramachetan" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramachetan" alt="ramachetan" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramachetan&" alt="ramachetan" /></p>
