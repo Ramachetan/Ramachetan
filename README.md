@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Leveraging Natural Language Processing for Automated Document Generation in Enterprise Systems**
 
-- 🌱 I’m currently learning **Kubernetes, Kafka**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **ramachetan22@gmail.com**
 
