@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rama Chetan Atmudi</h1>
-<h3 align="center">Hi there! I'm Rama, a Computer Engineering graduate student with experience in software development, augmented reality, and machine learning. I'm passionate about exploring new technologies and applying them to solve real-world problems.</h3>
+<h3 align="center">Hi there! I'm Rama, Software Engineer working at Miracle Labs, Novi MI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramachetan&label=Profile%20views&color=0e75b6&style=flat" alt="ramachetan" /> </p>
 
