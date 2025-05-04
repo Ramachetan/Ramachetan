@@ -56,10 +56,5 @@ My focus is on developing impactful Gen AI-powered applications, particularly le
 ## Featured Project
 [![Generative AI for Beginners](https://img.shields.io/badge/-Generative%20AI%20for%20Beginners-181717?style=for-the-badge&logo=github)](https://github.com/Ramachetan/generative-ai-for-beginners)
 
-A beginner-friendly guide to getting started with Generative AI technologies. *(Consider adding another project here if you have one showcasing RAG, Agents, etc.)*
-
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-chetan/)
-
----
-*Self-Correction Note:* Feel free to reorder the badges within the Tech Stack sections (e.g., group all AI frameworks together) or adjust the wording in the "About Me" and "Key Skills" sections to best reflect your personal experience and style! Remember to only include technologies you are confident in using.
