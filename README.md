@@ -1,9 +1,9 @@
 # Rama Chetan Atmudi 👋
 
-Software Engineer at Ford Motor Company | Miracle Software | Generative AI
+Software Engineer at Google
 
 ## About Me
-My focus is on developing impactful Gen AI-powered applications, particularly leveraging Retrieval-Augmented Generation (RAG) and Agentic Systems, to solve real-world problems and drive innovation.
+My focus is on developing impactful Gen AI-powered applications, particularly leveraging Agentic Systems, to solve real-world problems and drive innovation.
 
 ## Key Skills & Gen AI Focus
 - Generative AI Application Development
